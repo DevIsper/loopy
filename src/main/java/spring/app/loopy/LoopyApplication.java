@@ -3,6 +3,7 @@ package spring.app.loopy;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+//merge
 @SpringBootApplication
 public class LoopyApplication {
 
